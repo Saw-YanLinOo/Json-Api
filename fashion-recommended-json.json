@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "title": "Shoes",
+        "image": "https://user-images.githubusercontent.com/63788675/218977365-6b8998d2-294a-4de7-8b92-af332336469c.png"
+    },
+    {
+        "id": "2",
+        "title": "Cactus",
+        "image": "https://user-images.githubusercontent.com/63788675/218977398-ab624d1c-492e-48f2-b238-baa8c828df63.png"
+    },
+    {
+        "id": "3",
+        "title": "Dress",
+        "image": "https://user-images.githubusercontent.com/63788675/218978828-fde56d19-f837-4ae0-8b6b-09098ba8818c.png"
+    }
+]
