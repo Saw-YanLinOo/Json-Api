@@ -3,13 +3,13 @@
         "id": "1",
         "title": "Shoes",
         "image": "https://user-images.githubusercontent.com/63788675/218977365-6b8998d2-294a-4de7-8b92-af332336469c.png",
-        "color":"#FFC0CB"
+        "color":"#1E90FF"
     },
     {
         "id": "2",
         "title": "Cactus",
         "image": "https://user-images.githubusercontent.com/63788675/218977398-ab624d1c-492e-48f2-b238-baa8c828df63.png",
-        "color":"#1E90FF"
+        "color":"#FFC0CB"
     },
     {
         "id": "3",
