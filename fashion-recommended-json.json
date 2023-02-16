@@ -9,12 +9,12 @@
         "id": "2",
         "title": "Cactus",
         "image": "https://user-images.githubusercontent.com/63788675/218977398-ab624d1c-492e-48f2-b238-baa8c828df63.png",
-        "color":"#87CEFA"
+        "color":"#1E90FF"
     },
     {
         "id": "3",
         "title": "Dress",
         "image": "https://user-images.githubusercontent.com/63788675/218978828-fde56d19-f837-4ae0-8b6b-09098ba8818c.png",
-        "color":"#FFFF00"
+        "color":"#FFD700"
     }
 ]
